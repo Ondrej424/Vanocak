@@ -1,0 +1,55 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+
+}
+
+a {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 15px 10px 15px;
+    text-transform: uppercase;
+    box-shadow: inset 0 -5px 0 0 rgb(252, 64, 64);
+    transition: box-shadow 1s;
+}
+
+a:hover {
+    box-shadow: inset 0 -60px 0 0 rgb(252, 64, 64);
+    font-family: 'Black Ops One';
+    text-decoration: underline;
+    font-size: 21px;
+
+}
+
+p {
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 15px 10px 15px;
+    text-transform: uppercase;
+    box-shadow: inset 0 -5px 0 0 rgb(252, 64, 64);
+    transition: box-shadow 1s;
+
+}
+
+.box:hover {
+    box-shadow: inset 0 -60px 0 0 rgb(252, 64, 64);
+    font-family: 'Black Ops One';
+    text-decoration: underline;
+    font-size: 21px;
+
+
+}
+
+
